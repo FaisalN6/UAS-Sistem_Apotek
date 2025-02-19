@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|c:\\users\\utari\\downloads\\apotek_vb,net\\apotek\\form_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|solutionrelative:form_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\form_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|solutionrelative:form_menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\form_apoteker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|solutionrelative:form_apoteker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\transaksi_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|solutionrelative:transaksi_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\transaksi_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|solutionrelative:transaksi_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\form_menuapoteker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|solutionrelative:form_menuapoteker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\form_flash.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F5508E9B-B67C-4B5C-AB3A-494237F63FDA}|Apotek.vbproj|solutionrelative:form_flash.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "transaksi_form.vb",
+              "DocumentMoniker": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\transaksi_form.vb",
+              "RelativeDocumentMoniker": "transaksi_form.vb",
+              "ToolTip": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\transaksi_form.vb",
+              "RelativeToolTip": "transaksi_form.vb",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwHIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-13T16:00:49.692Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_menu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\Form_menu.vb",
+              "RelativeDocumentMoniker": "Form_menu.vb",
+              "ToolTip": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\Form_menu.vb [Design]",
+              "RelativeToolTip": "Form_menu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T15:40:32.054Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_apoteker.vb",
+              "DocumentMoniker": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\Form_apoteker.vb",
+              "RelativeDocumentMoniker": "Form_apoteker.vb",
+              "ToolTip": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\Form_apoteker.vb",
+              "RelativeToolTip": "Form_apoteker.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-17T04:35:04.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_menu.vb",
+              "DocumentMoniker": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\Form_menu.vb",
+              "RelativeDocumentMoniker": "Form_menu.vb",
+              "ToolTip": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\Form_menu.vb",
+              "RelativeToolTip": "Form_menu.vb",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-17T04:32:28.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_MenuApoteker.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\Form_MenuApoteker.vb",
+              "RelativeDocumentMoniker": "Form_MenuApoteker.vb",
+              "ToolTip": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\Form_MenuApoteker.vb [Design]",
+              "RelativeToolTip": "Form_MenuApoteker.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-17T04:27:28.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "transaksi_form.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\transaksi_form.vb",
+              "RelativeDocumentMoniker": "transaksi_form.vb",
+              "ToolTip": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\transaksi_form.vb [Design]",
+              "RelativeToolTip": "transaksi_form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-16T04:14:38.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_flash.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\Form_flash.vb",
+              "RelativeDocumentMoniker": "Form_flash.vb",
+              "ToolTip": "C:\\Users\\UTARI\\Downloads\\Apotek_vb,net\\Apotek\\Form_flash.vb [Design]",
+              "RelativeToolTip": "Form_flash.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-17T04:27:23.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
